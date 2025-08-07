@@ -11,4 +11,6 @@ To perform open port first we need to find the IP address, to find the IP addres
 
 Example Output:![image alt](https://github.com/Krishna-kali/Open-Port-scan-/blob/287888f19fa77d2445a6eea038c063e7246edb50/IMG_20250807_142237_971%20(2).png)
 3. Scanning for open Ports
-
+open nmap and type the command 
+Basic scan : Discover live host and open ports
+the for it is : nmap -T4 --open 192.168.1.0/24
