@@ -14,3 +14,5 @@ Example Output:![image alt](https://github.com/Krishna-kali/Open-Port-scan-/blob
 open nmap and type the command 
 Basic scan : Discover live host and open ports
 the for it is : nmap -T4 --open 192.168.1.0/24
+![image alt](https://github.com/Krishna-kali/Open-Port-scan-/blob/c12bb70cf3dc5422bac1b911f03a4d27399e465d/Screenshot_2025-08-07-15-10-04-368.png)
+we can aggressive scan also in nmap by using the -A with sudo and there lot of options in nmap for port scanning, we can use different types of flag in nmap, to know more about nmap flag use --help or --man to know about the flags
